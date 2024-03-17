@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0px;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    height:15px;
+    width:15px;
+    padding:5px;
+    color:blue;
+    background-color: bisque;
+    hover:blue;
+
+}
+
+.box{
+    margin:0;
+    height:500px;
+    width:500px;
+
+}
