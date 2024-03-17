@@ -1,0 +1,1 @@
+let h1=document.getElementById("t1").innerText="frist "
